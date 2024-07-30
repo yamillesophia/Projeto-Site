@@ -1,0 +1,31 @@
+/* Todos os imports tem de ser colocadas no início do CSS */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Playwrite+AR:wght@100..400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: rgb(248, 158, 235);
+}
+
+.figura {
+    width: 100px;
+}
+
+/* Classe para configuração de fonte */
+.fonte {
+    color: azure;
+    size: 22px;
+    font-family: "Playwrite AR", cursive;
+}
+
+.letra {
+    color: black;
+    size: 16px;
+    font-family:  "Raleway", sans-serif;
+}
+
+.letring {
+    color: cyan;
+    size: 14px;
+    font-family: "Kalnia Glaze", serif;
+}
